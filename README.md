@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">Hi 🙌, I'm Alfred </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">I am passionate about Web Development and Data Analysis. I really enjoy Front-End and am currently learning Back-End technologies to become a Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 💡 I’m currently studying for a degree in Computer Science Engineering
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 👍 I’m currently learning Flask, Node.js to improve my back-end skills
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- 👪 I’m looking to collaborate on full-stacks projects
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
