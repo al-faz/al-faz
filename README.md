@@ -8,8 +8,11 @@
 </p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI0YzIxYmltOWJmOHhrMzV3Z3RlM3h6dXdmNjNmdTQ5czV0ZGc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width ="100">
 <br>
+
+<p align="center">
+  <img width="300" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI0YzIxYmltOWJmOHhrMzV3Z3RlM3h6dXdmNjNmdTQ5czV0ZGc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif">
+</p>
 
 <i>About Me</i>
 
