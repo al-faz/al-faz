@@ -2,6 +2,7 @@
 <h3 align="center">I am passionate about Web Development and Data Analysis. I really enjoy Front-End and am currently learning Back-End technologies to become a Full-Stack Developer</h3>
 <p align="center">
   <a href = "alfredoxdstarter@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"/></a>
+  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lol123456xddd)
   <a href = "https://web.whatsapp.com/7551044376" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" alt="@unsimpledev"/></a>
   7551044376
 </p>
