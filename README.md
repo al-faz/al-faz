@@ -6,15 +6,10 @@
   <a href = "https://web.whatsapp.com/7551044376" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" alt="@al-faz"/></a>
   7551044376
 </p>
-
 <br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI0YzIxYmltOWJmOHhrMzV3Z3RlM3h6dXdmNjNmdTQ5czV0ZGc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width ="25"><b> About me</b>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI0YzIxYmltOWJmOHhrMzV3Z3RlM3h6dXdmNjNmdTQ5czV0ZGc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width ="60"><b> About me</b>
 <br>
-
-### <i>About</i>
 - 💡 I’m currently studying for a degree in Computer Science Engineering
 
 - 👍 I’m currently learning Flask, Node.js to improve my back-end skills
