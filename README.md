@@ -1,12 +1,20 @@
 <h1 align="center">Hi, I'm Alfred </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am passionate about Web Development and Data Analysis. I really enjoy Front-End and am currently learning Back-End technologies to become a Full-Stack Developer</h3>
 <p align="center">
-  <a href = "alfredoxdstarter@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@al-faz"/></a>
+  <a href = "mailto:alfredoxdstarter@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@al-faz"/></a>
   <a href = "https://x.com/lol123456xddd" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@al-faz"/></a>
   <a href = "https://web.whatsapp.com/7551044376" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" alt="@al-faz"/></a>
   7551044376
 </p>
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI0YzIxYmltOWJmOHhrMzV3Z3RlM3h6dXdmNjNmdTQ5czV0ZGc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width ="25"><b> About me</b>
+<br>
+
+### <i>About</i>
 - 💡 I’m currently studying for a degree in Computer Science Engineering
 
 - 👍 I’m currently learning Flask, Node.js to improve my back-end skills
