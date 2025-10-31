@@ -8,10 +8,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left">
-  <img width="150" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI0YzIxYmltOWJmOHhrMzV3Z3RlM3h6dXdmNjNmdTQ5czV0ZGc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif">
-</p>
-
 <i>About Me</i>
 
 - 💡 I’m currently studying for a degree in Computer Science Engineering
